@@ -1,6 +1,9 @@
 # 👋 Hey there, I'm Md. Injabin Alam!  
 🚀 **Java Developer | JavaFX Enthusiast | Problem Solver | Content Creator**  
-![Profile Banner](Black Simple Business Linkedin Banner.png)
+<p align="center">
+  <img src="Black%20Simple%20Business%20Linkedin%20Banner.png" alt="GitHub Cover">
+</p>
+
 <!-- Replace this with your LinkedIn cover image link -->
 
 ## 🚀 About Me  
