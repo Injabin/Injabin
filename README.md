@@ -1,7 +1,8 @@
 # 👋 Hey there, I'm Md. Injabin Alam!  
 🚀 **Java Developer | JavaFX Enthusiast | Problem Solver | Content Creator**  
 
-![Profile Banner](https://your-linkedin-cover-url.com) <!-- Replace this with your LinkedIn cover image link -->
+![Profile Banner](https://raw.githubusercontent.com/Injabin/Injabin/main/linkedin-banner.png)
+<!-- Replace this with your LinkedIn cover image link -->
 
 ## 🚀 About Me  
 - 🎓 **Computer Science Student** passionate about **Java development** and **JavaFX** applications.  
