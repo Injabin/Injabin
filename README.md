@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Md. Injabin Alam!  
 🚀 **Java Developer | JavaFX Enthusiast | Problem Solver | Content Creator**  
 <p align="center">
-  <img src="Black%20Simple%20Business%20Linkedin%20Banner.png" alt="GitHub Cover">
+  <img src="Black and White Modern Business LinkedIn Banner (2).png" alt="GitHub Cover">
 </p>
 
 <!-- Replace this with your LinkedIn cover image link -->
