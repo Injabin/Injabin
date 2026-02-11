@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Md. Injabin Alam
 
-**Software & Robotics Engineer | Java & JavaFX Developer | Embedded Systems Specialist**
+**Computer Science & Engineering Student | Aspiring Software & Robotics Engineer**
 
 <p align="center">
   <img src="Black and White Modern Business LinkedIn Banner (2).png" alt="GitHub Cover" width="100%">
@@ -8,54 +8,54 @@
 
 ---
 
-## 🚀 Professional Profile
-I am a **Computer Science & Engineering** student at **United International University (UIU)**, specializing in the intersection of high-level software development and low-level hardware integration. My work focuses on building functional, user-centric applications and autonomous robotic systems.
+## 🚀 About Me
+I am a **Computer Science & Engineering student** at **United International University (UIU)**. I am passionate about the intersection of software development and hardware, specifically how code can be used to control real-world circuits and robotic systems.
 
-* **Current Focus:** Developing robust embedded systems, advancing in PCB architecture, and refining UI/UX through Figma to bridge the gap between complex engineering and intuitive design.
-* **Research Interest:** Actively exploring technical papers in robotics and automation to implement research-backed methodologies in my projects.
+* **Current Learning Path:** Deepening my knowledge in **PCB Design**, **Embedded Systems**, and **UI/UX Design principles**.
+* **Research Interests:** Actively reading technical papers to understand the latest advancements in automation and robotics.
+* **Community:** Former Intern Member at the **UIU CanSat Team** and active member of the **UIU App Forum**.
 
 ---
 
-## 🛠️ Technical Expertise
+## 🛠️ Tech Stack & Tools
 
-| Category | Skills & Tools |
+| Category | Skills |
 | :--- | :--- |
 | **Languages** | Java, C, C++, PHP, SQL |
-| **Software Development** | JavaFX, Scene Builder, Desktop Application Architecture |
-| **Robotics & Hardware** | Embedded Systems, PCB Design (EasyEDA), Circuit Soldering, Prototyping |
-| **Design & Research** | UI/UX (Figma), Technical Research, Research-based Development |
-| **Tools & Databases** | Git, GitHub, MySQL, Linux Environments |
+| **Software & UI** | JavaFX, Scene Builder, Figma, Canva |
+| **Hardware/Robotics** | EasyEDA (PCB Design), Circuit Soldering, Arduino/Embedded Prototyping |
+| **Tools** | Git, GitHub, MySQL, InVideo AI, Shotcut |
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Projects in Development
 
-### 🤖 Robotics & Embedded Systems
-* **EMG-Controlled Robot:** Developed a robotic system utilizing human muscle signals (Electromyography) for real-time movement control.
-* **EEG Interface Prototype:** Experimental project focused on brain-signal-based control interfaces.
-* **Hexapod & Quadruped Biomechanics:** Engineered multi-legged robotic models, integrating complex software logic with mechanical hardware.
+### 🤖 Robotics & Hardware
+* **EMG-Controlled Robot:** A project focused on controlling robotic movement via human muscle signals.
+* **EEG Module Interface:** Experimental work involving brain-signal-based control prototypes.
+* **Hexapod & Quadruped Models:** Building and programming multi-legged robotic structures.
 
-### 💻 Software Engineering
-* **[NextNest](https://github.com/Injabin/Next-Nest):** A full-featured real estate listing platform built with JavaFX and MySQL, featuring a dynamic UI and efficient data handling.
-
----
-
-## 📈 Experience & Community
-* **UIU CanSat Team (Alumni Intern):** Specialized in hardware integration and PCB design for research-focused aerospace projects.
-* **UIU App Forum:** Active contributor to technical seminars and peer-led study sessions on app development.
+### 💻 Software Applications
+* **[NextNest](https://github.com/Injabin/Next-Nest):** A JavaFX-based real estate application featuring MySQL integration and custom UI.
 
 ---
 
 ## 📊 GitHub Analytics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Injabin&show_icons=true&theme=dark" alt="Injabin's GitHub stats" height="170px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Injabin&layout=compact&theme=dark" alt="Top Languages" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api?username=Injabin&show_icons=true&theme=dark&hide_border=true" alt="Injabin's GitHub stats" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Injabin&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="170px" />
 </p>
 
 ---
 
-## 📫 Connect With Me
-[**LinkedIn**](https://www.linkedin.com/in/injabin) | [**GitHub**](https://github.com/Injabin) | [**Portfolio/YouTube**](https://www.youtube.com/@%E0%A6%89%E0%A6%A8%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%B6)
+## 📫 Let's Connect
+<p align="left">
+<a href="https://www.linkedin.com/in/injabin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://github.com/Injabin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@উনত্রিশ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+<a href="https://www.facebook.com/md.injabin.alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/injabin29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
 
 ---
-*“Bridging the gap between code and circuits to build the future of automation.”*
+*“Coding is fun when I understand it .”*
