@@ -40,11 +40,20 @@ I am a **Computer Science & Engineering student** at **United International Univ
 
 ---
 
+---
+
 ## 📊 GitHub Analytics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Injabin&show_icons=true&theme=dark&hide_border=false" alt="Injabin's GitHub stats" height="170px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Injabin&layout=compact&theme=dark&hide_border=false" alt="Top Languages" height="170px" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Injabin&show_icons=true&theme=dark&hide_border=false" alt="Injabin's GitHub stats" height="170px" />
+  
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Injabin&layout=compact&theme=dark&hide_border=false" alt="Top Languages" height="170px" />
 </p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Injabin&theme=dark" alt="Injabin's Streak" />
+</p>
+
+---
 
 ---
 
