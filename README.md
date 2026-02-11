@@ -42,20 +42,18 @@ I am a **Computer Science & Engineering student** at **United International Univ
 
 ## 📊 GitHub Analytics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Injabin&show_icons=true&theme=dark&hide_border=true" alt="Injabin's GitHub stats" height="170px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Injabin&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api?username=Injabin&show_icons=true&theme=dark&hide_border=false" alt="Injabin's GitHub stats" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Injabin&layout=compact&theme=dark&hide_border=false" alt="Top Languages" height="170px" />
 </p>
 
 ---
 
 ## 📫 Let's Connect
-<p align="left">
-<a href="https://www.linkedin.com/in/injabin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://github.com/Injabin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@উনত্রিশ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-<a href="https://www.facebook.com/md.injabin.alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/injabin29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/injabin)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Injabin)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@উনত্রিশ)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.injabin.alam)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/injabin29)
 
 ---
-*“Coding is fun when I understand it .”*
+*“Coding is like playing with legos when we understand the basics.”*
