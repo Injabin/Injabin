@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 The Mission
-I am a **Computer Science & Engineering student** at **United International University (UIU)**. My passion lies where code meets the physical world. I don't claim to be a pro yet—I'm a **builder and a learner** obsessed with how software can control mechanical systems and robotics.
+I am a **Computer Science & Engineering student** at **United International University (UIU)**. My passion lies where code meets the physical world. I don't claim to be a pro yet—I'm a **builder and a learner** obsessed with how software can breathe life into mechanical systems and robotics.
 
 * 🎓 **Currently:** Navigating the world of CSE and finding my niche in **Hardware-Software Integration**.
 * 🛰️ **CanSat Experience:** Former Intern at **UIU CanSat Team**, where I first explored aerospace prototyping.
@@ -33,6 +33,7 @@ I'm currently moving beyond basic university assignments to explore more complex
 | **System Programming** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |
 | **Design & CAD** | ![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6600?style=for-the-badge&logo=autodesk&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
 | **Hardware** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![PCB](https://img.shields.io/badge/PCB_Design-EDA-green?style=for-the-badge) ![Embedded](https://img.shields.io/badge/Embedded-Systems-black?style=for-the-badge&logo=cpu) |
+| **AI & Productivity** | ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white) |
 | **Data & Workflow** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 ---
