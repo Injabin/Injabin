@@ -3,7 +3,7 @@
 **Computer Science & Engineering Student | Embedded Systems & Robotics Engineer**
 
 <p align="center">
-  <img src="cp1.jpg" alt="GitHub Cover" width="100%">
+  <img src="cp2.png" alt="GitHub Cover" width="100%">
 </p>
 
 ---
