@@ -1,71 +1,78 @@
-# 👋 Hey there, I'm Md. Injabin Alam
+# 👋 Hello, I'm Injabin
 
-**Computer Science & Engineering Student | Embedded Systems & Robotics Engineer**
+**Computer Science Student @ UIU | Aspiring Systems & Robotics Engineer**
 
 <p align="center">
-  <img src="cp.png" alt="GitHub Cover" width="100%">
+  <img src="cp.png" alt="GitHub Cover" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 </p>
 
 ---
 
-## 🚀 About Me
-I am a **Computer Science & Engineering student** at **United International University (UIU)**, focused on the synergy between software logic and physical hardware. I specialize in building end-to-end systems where high-level code interacts with mechanical and electronic components.
+### 🚀 The Mission
+I am a **Computer Science & Engineering student** at **United International University (UIU)**. My passion lies where code meets the physical world. I don't claim to be a pro yet—I'm a **builder and a learner** obsessed with how software can control mechanical systems and robotics.
 
-* **Engineering Philosophy:** I focus on **Platform-Agnostic Engineering**—prioritizing core principles in robotics, automation, and system architecture over specific frameworks.
-* **Technical Approach:** Bridging the gap between digital and physical: I use **Fusion 360** to architect mechanical systems and modern software patterns to control them.
-* **Experience:** Former Intern Member of the **UIU CanSat Team**, contributing to aerospace-related hardware prototyping and sensor integration.
+* 🎓 **Currently:** Navigating the world of CSE and finding my niche in **Hardware-Software Integration**.
+* 🛰️ **CanSat Experience:** Former Intern at **UIU CanSat Team**, where I first explored aerospace prototyping.
+* 🛠️ **Philosophy:** I believe in the "Maker" spirit—learning by breaking things, fixing them, and building them better.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🧠 On My Radar (What I'm Learning)
+I'm currently moving beyond basic university assignments to explore more complex engineering challenges:
+* 🤖 **Robotics:** Exploring kinematics and movement logic for multi-legged models.
+* ⚡ **Embedded Systems:** Learning the ropes of PCB design and sensor interfacing.
+* 📐 **Mechanical Design:** Mastering **Fusion 360** to create custom chassis for my projects.
+* 💻 **Software Architecture:** Figuring out how to write cleaner, more efficient logic.
 
-| Category | Skills & Tools |
+---
+
+### 🛠️ My Tech Stack
+
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **System Programming** | C, C++, Java, PHP, SQL |
-| **Mechanical Design** | **Fusion 360 (Fluent)**, CAD Modeling, Prototyping |
-| **Hardware & Robotics** | EasyEDA (PCB Design), Arduino, Circuit Soldering, Embedded Systems |
-| **UI & Digital Design** | Figma, Canva, Modern GUI Design Patterns |
-| **DevOps & Media** | Git, GitHub, MySQL, Linux Terminal, Video Production |
+| **System Programming** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |
+| **Design & CAD** | ![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6600?style=for-the-badge&logo=autodesk&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
+| **Hardware** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![PCB](https://img.shields.io/badge/PCB_Design-EDA-green?style=for-the-badge) ![Embedded](https://img.shields.io/badge/Embedded-Systems-black?style=for-the-badge&logo=cpu) |
+| **Data & Workflow** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 ---
 
-## 🌟 Key Projects
+### 🌟 Latest Explorations
 
-### 🤖 Robotics & Hardware
-* **EMG-Controlled Robot:** Implementing human muscle signal processing for robotic limb control.
-* **EEG Module Interface:** Researching brain-signal-to-digital-command protocols.
-* **Hexapod & Quadruped Models:** Design and kinematic programming of multi-legged robotic platforms using **Fusion 360** for custom chassis.
+> [!TIP]
+> **[NextNest](https://github.com/Injabin/Nextnest_Find_your_new_home)**
+> My first major dive into database management and UI design. A professional desktop real-estate platform.
 
-### 💻 Software Applications
-* **[NextNest](https://github.com/Injabin/Nextnest_Find_your_new_home):** A real estate management platform featuring database integration and custom UI architecture.
-* **[Kinetic Analog Clock](https://github.com/Injabin/Kinetic_Analog_Clock):** A math-driven UI project focused on trigonometric animations and real-time synchronization.
+> [!IMPORTANT]
+> **[Kinetic Analog Clock](https://github.com/Injabin/Kinetic_Analog_Clock)**
+> Exploring the math behind the movement. This project uses trigonometry to create smooth, real-time rotations.
+
+* 🐍 **Snake Game:** A study in game loops and collision logic.
+* 🦾 **In Development:** Experimenting with **EMG (Muscle) signals** for robotic control and designing **Quadruped** chassis in Fusion 360.
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Pulse
 
-<p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Injabin&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Injabin's GitHub stats" height="170px" />
-  
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Injabin&layout=compact&theme=dark&hide_border=false&langs_count=6" alt="Top Languages" height="170px" />
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Injabin&show_icons=true&theme=dark&hide_border=false" height="150px" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Injabin&layout=compact&theme=dark&hide_border=false" height="150px" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Injabin&theme=dark" alt="Injabin's Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Injabin&theme=dark&hide_border=false" />
 </p>
 
-### 🛠️ Programming Proficiency
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion_360-orange?style=for-the-badge&logo=autodesk&logoColor=white)
 ---
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/injabin)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Injabin)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@উনত্রিশ)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.injabin.alam)
+### 📫 Let's Connect!
+
+<p align="left">
+<a href="https://www.linkedin.com/in/injabin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Injabin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.youtube.com/@উনত্রিশ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.facebook.com/md.injabin.alam"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
 
 ---
-*“Coding is like building with LEGOs—once you master the basics, the possibilities are infinite.”*
+*"Coding is like building with LEGOs—once you master the basics, the possibilities are infinite."*
