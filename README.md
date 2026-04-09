@@ -45,8 +45,8 @@ I'm currently moving beyond basic university assignments to explore more complex
 > My first major dive into database management and UI design. A professional desktop real-estate platform.
 
 > [!IMPORTANT]
-> **[Kinetic Analog Clock](https://github.com/Injabin/Kinetic_Analog_Clock)**
-> Exploring the math behind the movement. This project uses trigonometry to create smooth, real-time rotations.
+> **[GovConnect](https://github.com/Injabin/Gov_Connect-DhakaGird-/tree/main)**
+> A high-performance City Management & Emergency Response Ecosystem.
 
 * 🐍 **Snake Game:** A study in game loops and collision logic.
 * 🦾 **In Development:** Experimenting with **EMG (Muscle) signals** for robotic control and designing **Quadruped** chassis in Fusion 360.
